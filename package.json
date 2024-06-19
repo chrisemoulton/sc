@@ -17,8 +17,8 @@
     "test": "make test"
   },
   "dependencies": {
-    "socket.io": "~0.9.16",
-    "ws": "~0.4.29",
+    "socket.io": "~4.7.5",
+    "ws": "~8.17.1",
     "multilog": "~14.11.22",
     "formidable": "~1.0.14",
     "fleau": "~15.3.3",
